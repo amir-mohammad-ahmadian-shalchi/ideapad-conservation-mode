@@ -21,3 +21,9 @@ Adjust `.bashrc` according to your current shell.
 echo "export PATH=\$PATH:$( pwd )" >> ~/.bashrc
 ```
 
+## Usage
+```bash
+Usage:
+	ideapad-cm enable|disable|status [acpi_call|ideapad_laptop]
+```
+
