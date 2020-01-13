@@ -6,3 +6,18 @@
 ![ideapad-cm-screencast.gif](ideapad-cm-screencast.gif "ideapad-cm Screencast")
 
 A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. :computer: :battery: :guardsman:
+
+## Installation
+Clone this repository to a directory of your choice and add it to your PATH environment variable.
+
+### Clone
+```bash
+git clone https://github.com/tildehacker/ideapad-conservation-mode.git
+```
+
+### Add it to PATH
+Adjust `.bashrc` according to your current shell.
+```bash
+echo "export PATH=\$PATH:$( pwd )" >> ~/.bashrc
+```
+
