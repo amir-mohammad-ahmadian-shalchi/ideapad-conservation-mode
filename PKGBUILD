@@ -1,6 +1,6 @@
-# Maintainer: Your Name <youremail@domain.com>
 pkgname=NAME
 pkgver=VERSION
+# Maintainer: TildeHacker <contact@tildehacker.com>
 pkgrel=1
 epoch=
 pkgdesc=""
