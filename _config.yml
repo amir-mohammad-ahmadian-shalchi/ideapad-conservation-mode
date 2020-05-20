@@ -3,3 +3,5 @@ show_downloads: true
 google_analytics: UA-156431676-1
 plugins:
   - jemoji
+use_github_avatar: true
+github_username: tildehacker
