@@ -1,6 +1,6 @@
-pkgver=VERSION
 # Maintainer: TildeHacker <contact@tildehacker.com>
 pkgname=ideapad-cm
+pkgver=0.1.0
 pkgrel=1
 epoch=
 pkgdesc=""
