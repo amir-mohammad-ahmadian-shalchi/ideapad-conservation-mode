@@ -19,8 +19,7 @@ backup=()
 options=()
 install=
 changelog=
-source=("$pkgname-$pkgver.tar.gz"
-        "$pkgname-$pkgver.patch")
+source=("$pkgname")
 noextract=()
 md5sums=()
 validpgpkeys=()
