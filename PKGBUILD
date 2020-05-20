@@ -21,7 +21,7 @@ install=
 changelog=
 source=("git://github.com/tildehacker/ideapad-conservation-mode.git")
 noextract=()
-md5sums=('80d066fe75d54bc51756610350347259')
+md5sums=('SKIP')
 validpgpkeys=()
 
 package() {
