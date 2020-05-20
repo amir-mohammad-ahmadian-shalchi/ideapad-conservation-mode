@@ -39,7 +39,7 @@ Usage:
 	ideapad-cm enable|disable|status [acpi_call|ideapad_laptop]
 ```
 
-## Contributing
+## Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
