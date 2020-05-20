@@ -7,6 +7,15 @@
 
 A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. :computer: :battery: :guardsman:
 
+## Motivation
+
+When the conservation mode is enabled, your battery will only be charged to 60%
+to maximize its lifespan. On Windows, [Lenovo
+Vantage](https://techtoday.lenovo.com/us/en/software/vantage) is usually used to
+enable this mode. On GNU/Linux, this can be
+[done](https://tildehacker.com/lenovo-ideapad-battery-conservation-mode-gnu-linux)
+manually. This script is a shortcut to enable/disable this mode.
+
 ## Installation (Arch User Repository) [![AUR version](http://badge.kloud51.com/aur/v/ideapad-cm.svg)](https://aur.archlinux.org/packages/ideapad-cm)
 
 `ideapad-cm` is available in the [Arch User Repository
