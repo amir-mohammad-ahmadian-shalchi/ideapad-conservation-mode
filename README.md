@@ -10,8 +10,8 @@ A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. 
 ## Installation (Arch User Repository) [![AUR version](http://badge.kloud51.com/aur/v/ideapad-cm.svg)](https://aur.archlinux.org/packages/ideapad-cm)
 
 `ideapad-cm` is available in the [Arch User Repository
-(AUR)](https://aur.archlinux.org). The following command installs `ideapad-cm`
-using [`yay`](https://github.com/Jguer/yay) AUR helper.
+(AUR)](https://aur.archlinux.org/packages/ideapad-cm). The following command
+installs `ideapad-cm` using [`yay`](https://github.com/Jguer/yay) AUR helper.
 
 ```bash
 yay -S ideapad-cm
