@@ -25,6 +25,5 @@ md5sums=('80d066fe75d54bc51756610350347259')
 validpgpkeys=()
 
 package() {
-	cd "$pkgname-$pkgver"
-	make DESTDIR="$pkgdir/" install
+	install -D "$pkgname" "$pkgdir/usr/bin/$pkgname"
 }
