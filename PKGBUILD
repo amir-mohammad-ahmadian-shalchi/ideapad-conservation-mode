@@ -21,7 +21,7 @@ install=
 changelog=
 source=("$pkgname")
 noextract=()
-md5sums=()
+md5sums=('80d066fe75d54bc51756610350347259')
 validpgpkeys=()
 
 prepare() {
