@@ -40,3 +40,7 @@ Usage:
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE)
+file for details.
