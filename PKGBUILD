@@ -25,5 +25,6 @@ md5sums=('SKIP')
 validpgpkeys=()
 
 package() {
+	cd "ideapad-conservation-mode"
 	install -D "$pkgname" "$pkgdir/usr/bin/$pkgname"
 }
