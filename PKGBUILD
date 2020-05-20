@@ -24,22 +24,6 @@ noextract=()
 md5sums=('80d066fe75d54bc51756610350347259')
 validpgpkeys=()
 
-prepare() {
-	cd "$pkgname-$pkgver"
-	patch -p1 -i "$srcdir/$pkgname-$pkgver.patch"
-}
-
-build() {
-	cd "$pkgname-$pkgver"
-	./configure --prefix=/usr
-	make
-}
-
-check() {
-	cd "$pkgname-$pkgver"
-	make -k check
-}
-
 package() {
 	cd "$pkgname-$pkgver"
 	make DESTDIR="$pkgdir/" install
