@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: tildehacker/minimal
 show_downloads: true
 google_analytics: UA-156431676-1
 plugins:
