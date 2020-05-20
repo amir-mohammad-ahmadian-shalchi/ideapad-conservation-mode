@@ -5,7 +5,7 @@
 
 ![ideapad-cm-screencast.gif](ideapad-cm-screencast.gif "ideapad-cm Screencast")
 
-A script to enable/disable battery conservation mode in Lenovo Ideapad laptops.
+A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. :computer: :battery: :guardsman:
 
 ## Motivation
 
