@@ -1,5 +1,4 @@
 remote_theme: tildehacker/minimal@tildehacker
-show_downloads: true
 google_analytics: UA-156431676-1
 plugins:
   - jemoji
