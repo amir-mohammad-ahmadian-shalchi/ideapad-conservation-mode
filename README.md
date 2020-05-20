@@ -7,6 +7,18 @@
 
 A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. :computer: :battery: :guardsman:
 
+## Installation (Arch Linux)
+
+If you use Arch Linux, then you can use the bundled PKGBUILD file to build and
+install this script.
+
+```bash
+git clone https://github.com/tildehacker/ideapad-conservation-mode.git
+cd "ideapad-conservation-mode"
+makepkg
+sudo pacman -U *.tar.xz
+```
+
 ## Installation
 Clone this repository to a directory of your choice and add it to your PATH environment variable.
 
