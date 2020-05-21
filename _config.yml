@@ -4,4 +4,4 @@ plugins:
   - jemoji
 use_github_avatar: true
 github_username: tildehacker
-show_description: false
+show_description: true
